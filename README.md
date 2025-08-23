@@ -2,7 +2,7 @@
 Runnable artefacts for the ARC paper: feature-lineage template and structure-aware cross-validation (rolling-origin time series + GroupKFold) with per-fold preprocessing. Includes locked-holdout protocol, seed manifest, and R/Python examples. Permissive license; Zenodo-citable (DOI).
 
 <!-- Badges: add after first release -->
-<!-- ![License](https://img.shields.io/badge/license-Apache--2.0-blue) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TBD.svg)](https://doi.org/10.5281/zenodo.TBD) -->
+<!-- ![License](https://img.shields.io/badge/license-Apache--2.0-blue) [![DOI](https://zenodo.org/badge/1043130443.svg)](https://doi.org/10.5281/zenodo.16931847) -->
 
 ## Layout
 ```arc-leakage-tscv/
