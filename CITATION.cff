@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ARC Leakage & Time-Series CV Artefacts"
+version: "1.0.0"
+authors:
+  - given-names: "Osama"
+    family-names: "Abdelhay"
+    # Replace with your ORCID if you have one:
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: "2025-08-23"
+repository-code: "https://github.com/<your_user_or_org>/arc-leakage-tscv"
+doi: "10.5281/zenodo.TBD"   # replace after first Zenodo-minted release
+license: "Apache-2.0"
+keywords:
+  - "time-series cross-validation"
+  - "rolling-origin"
+  - "GroupKFold"
+  - "leakage"
+  - "AutoML"
+  - "model validation"
+abstract: >
+  Runnable artefacts for ARC: feature-lineage template and structure-aware
+  cross-validation (rolling-origin time series + GroupKFold) with per-fold
+  preprocessing, a locked-holdout protocol, and seed manifest. R and Python examples.
+preferred-citation:
+  type: software
+  title: "ARC Leakage & Time-Series CV Artefacts"
+  authors:
+    - given-names: "Osama"
+      family-names: "Abdelhay"
+  year: 2025
+  version: "1.0.0"
+  doi: "10.5281/zenodo.TBD"   # update after Zenodo DOI is issued
