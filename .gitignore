@@ -205,3 +205,47 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- R / RStudio ---
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Renviron
+.Rprofile
+.Rproj.user/
+*.Rproj
+
+# R package/build artefacts
+*.Rcheck/
+*.o
+*.dll
+*.so
+.Rbuildignore
+
+# renv / packrat
+renv/library/
+renv/staging/
+# keep renv.lock in VCS
+# packrat (legacy)
+packrat/lib*/
+packrat/src/
+
+# R Markdown / Quarto caches & renders
+*_cache/
+cache/
+*.utf8.md
+*.knit.md
+*.Rout
+*.Rout.save
+.quarto/
+_book/
+_site/
+_freeze/
+
+# --- Editors / OS (cross-platform) ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
