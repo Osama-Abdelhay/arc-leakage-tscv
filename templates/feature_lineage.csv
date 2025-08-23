@@ -1,0 +1,3 @@
+feature_name,source_table,source_field,transform,used_in_training,available_time,leakage_risk,leakage_reason,owner,reviewer,notes
+days_since_last_txn,transactions,last_txn_dt,recency Y/N,Y,at_prediction,N,,data-eng,auditor,Derived at T0
+account_status,crm,status,one_hot,Y,at_prediction,Y,status updated post-outcome,risk,compliance,Exclude or lag by ≥1 cycle
