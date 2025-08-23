@@ -30,3 +30,9 @@ pip install scikit-learn pandas numpy
 Rscript tscv/rolling_origin.R
 python tscv/blocked_cv.py
 ```
+```r install
+Rscript tscv/rolling_origin.R
+```
+``` python install
+python tscv/blocked_cv.py
+```
